@@ -19,3 +19,4 @@ Significant descriptors (active vs. inactive, Mann–Whitney U, p ≤ 0.05)	pIC5
 Not significant	LogP (p = 0.435)
 QSAR model (Random Forest, ECFP4 fingerprints)	Test R² = 0.65
 Full write-up with methodology, literature review and discussion: report/InhA_QSAR_Project_Report.pdf
+[InhA_QSAR_Project(Biogrademy).pdf](https://github.com/user-attachments/files/32795364/InhA_QSAR_Project.Biogrademy.pdf)
